@@ -1,0 +1,15 @@
+aiohttp
+asyncio
+beautifulsoup4
+crewai
+fastapi
+json
+langchain-community
+langchain-openai
+langchain_community
+langchain_openai
+openai
+psutil
+requests
+typing
+uvicorn

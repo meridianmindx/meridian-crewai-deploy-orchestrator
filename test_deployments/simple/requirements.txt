@@ -1,0 +1,9 @@
+crewai
+fastapi
+langchain-openai
+langchain_openai
+numpy
+openai
+pandas
+psutil
+uvicorn

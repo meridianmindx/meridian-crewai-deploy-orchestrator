@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crewai-deploy-orchestrator"
+version = "0.1.0"
+description = "Cross-platform deployment orchestration for CrewAI agents"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+ {name = "CrewAI Deployment Team"}
+]
+classifiers = [
+ "Development Status :: 3 - Alpha",
+ "Intended Audience :: Developers",
+ "License :: OSI Approved :: MIT License",
+ "Operating System :: OS Independent",
+ "Programming Language :: Python :: 3",
+ "Programming Language :: Python :: 3.9",
+ "Programming Language :: Python :: 3.10",
+ "Programming Language :: Python :: 3.11",
+ "Topic :: Software Development :: Build Tools",
+]
+requires-python = ">=3.9"
+dependencies = [
+ "crewai>=0.28.0",
+ "pyyaml>=6.0",
+ "docker>=7.0.0",
+ "astunparse>=1.6.3",
+]
+
+[project.optional-dependencies]
+dev = [
+ "pytest>=7.4.0",
+ "black>=23.0.0",
+ "mypy>=1.8.0",
+ "typing-extensions>=4.9.0",
+]
+
+[project.scripts]
+crewai-deploy = "orchestrator:main"
+
+[project.urls]
+Homepage = "https://github.com/yourorg/crewai-deploy-orchestrator"
+Documentation = "https://github.com/yourorg/crewai-deploy-orchestrator#readme"
+Repository = "https://github.com/yourorg/crewai-deploy-orchestrator.git"

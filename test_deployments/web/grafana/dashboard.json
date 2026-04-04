@@ -1,0 +1,44 @@
+{
+  "dashboard": {
+    "title": "CrewAI Agent Monitoring",
+    "refresh": "5s",
+    "panels": [
+      {
+        "title": "CPU Usage",
+        "type": "gauge",
+        "targets": [
+          {
+            "expr": "agent_cpu_percent"
+          }
+        ]
+      },
+      {
+        "title": "Memory Usage",
+        "type": "gauge",
+        "targets": [
+          {
+            "expr": "agent_memory_percent"
+          }
+        ]
+      },
+      {
+        "title": "Uptime",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "agent_uptime_seconds"
+          }
+        ]
+      },
+      {
+        "title": "Request Count",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "rate(agent_requests_total[1m])"
+          }
+        ]
+      }
+    ]
+  }
+}
