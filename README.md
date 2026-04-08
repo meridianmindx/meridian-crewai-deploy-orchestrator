@@ -1,18 +1,18 @@
-# CrewAI Agent Deployment Orchestrator
+# Meridian CrewAI Agent Deployment Orchestrator
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Cross-platform deployment orchestration for CrewAI agents.** Analyze agent codebases and generate optimized Docker configurations with one command.
+**Meridian-powered cross-platform deployment orchestration for CrewAI agents.** Analyze agent codebases and generate optimized Docker configurations with one command.
 
 ## Quick Start
 
 ```bash
 # Install
-pip install crewai-deploy-orchestrator
+pip install meridian-crewai-deploy-orchestrator
 
 # Analyze an agent and generate deployment configs
-crewai-deploy /path/to/agent --output ./deployment
+meridian-crewai-deploy-orchestrator /path/to/agent --output ./deployment
 
 # Or use directly with Python
 python -m orchestrator /path/to/agent --output ./deployment
@@ -23,13 +23,13 @@ python -m orchestrator /path/to/agent --output ./deployment
 ### From PyPI
 
 ```bash
-pip install crewai-deploy-orchestrator
+pip install meridian-crewai-deploy-orchestrator
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/yourorg/crewai-deploy-orchestrator.git
+git clone https://github.com/meridian-mind/crewai-deploy-orchestrator.git
 cd crewai-deploy-orchestrator
 pip install -r requirements.txt
 ```

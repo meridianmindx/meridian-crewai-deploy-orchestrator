@@ -3,13 +3,13 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "crewai-deploy-orchestrator"
-version = "0.1.0"
-description = "Cross-platform deployment orchestration for CrewAI agents"
+name = "meridian-crewai-deploy-orchestrator"
+version = "0.2.0"
+description = "Meridian-powered cross-platform deployment orchestration for CrewAI agents"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
- {name = "CrewAI Deployment Team"}
+ {name = "Meridian"}
 ]
 classifiers = [
  "Development Status :: 3 - Alpha",
@@ -42,6 +42,6 @@ dev = [
 crewai-deploy = "orchestrator:main"
 
 [project.urls]
-Homepage = "https://github.com/yourorg/crewai-deploy-orchestrator"
-Documentation = "https://github.com/yourorg/crewai-deploy-orchestrator#readme"
-Repository = "https://github.com/yourorg/crewai-deploy-orchestrator.git"
+Homepage = "https://github.com/meridian-mind/crewai-deploy-orchestrator"
+Documentation = "https://github.com/meridian-mind/crewai-deploy-orchestrator#readme"
+Repository = "https://github.com/meridian-mind/crewai-deploy-orchestrator.git"

@@ -4,13 +4,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="crewai-deploy-orchestrator",
-    version="0.1.0",
-    author="CrewAI Deployment Team",
-    description="Cross-platform deployment orchestration for CrewAI agents",
+    name="meridian-crewai-deploy-orchestrator",
+    version="0.2.0",
+    author="Meridian",
+    description="Meridian-powered cross-platform deployment orchestration for CrewAI agents",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourorg/crewai-deploy-orchestrator",
+    url="https://github.com/meridian-mind/crewai-deploy-orchestrator",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
@@ -40,7 +40,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "crewai-deploy=orchestrator:main",
+            "meridian-crewai-deploy-orchestrator=orchestrator:main",
         ],
     },
 )
