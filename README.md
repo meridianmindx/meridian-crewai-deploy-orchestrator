@@ -240,3 +240,13 @@ If this tool helps you deploy CrewAI agents faster, please consider **starring t
 [⭐ Star this repo](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers) • [💬 Start a discussion](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/discussions) • [🐛 Report issues](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/issues)
 
 **Built for the CrewAI ecosystem** • Deploy agents anywhere with confidence
+
+## 💰 Affiliate Disclosure
+
+We participate in affiliate programs for cloud providers. If you sign up using our links, we may earn a commission at no extra cost to you. This helps support the project.
+
+- **AWS**: [Sign up for AWS Free Tier](https://aws.amazon.com/free/?tag=meridian-20)
+- **DigitalOcean**: [Get $200 credit](https://m.do.co/c/meridian-20)
+- **GCP**: [Start with $300 free](https://cloud.google.com/free/?utm_source=meridian)
+
+These links provide you with the same great deals and help us continue building open-source tools.
