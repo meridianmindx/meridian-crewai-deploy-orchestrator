@@ -1,5 +1,10 @@
 # 🚀 Meridian CrewAI Agent Deployment Orchestrator
 
+[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_Now!-black?logo=github)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)
+
+Help us break the 0-star barrier - your star matters!
+
+
 <div align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-crewai-deploy-orchestrator?style=for-the-badge)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers)
