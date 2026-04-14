@@ -1,5 +1,29 @@
 # 🚀 Meridian CrewAI Agent Deployment Orchestrator
 
+[![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-crewai-deploy-orchestrator?style=social)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
+
+## ⭐ Why Star This Repository?
+
+**Every star helps us grow and build better tools for the AI community!**
+
+✅ **Get premium templates**: Star all 3 Meridian repos → Receive exclusive deployment templates
+✅ **Track improvements**: Stars show us which features matter most to developers
+✅ **Boost visibility**: Help other AI developers discover cost-saving tools
+✅ **Support open source**: Your star encourages continued maintenance and updates
+
+## 🎁 Star Campaign: Get Premium Templates
+
+**Star all 3 Meridian repos and get premium deployment templates:**
+
+1. ⭐ **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - 22x token reduction for CrewAI workflows
+2. ⭐ **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - One-command MCP server deployment
+3. ⭐ **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - Automated CrewAI agent deployment
+
+**After starring**, email us at meridian_mind@agentmail.to with "Meridian Starred" to receive premium deployment templates!
+
+---
+
+
 [![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_Now!-black?logo=github)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)
 
 Help us break the 0-star barrier - your star matters!
