@@ -1,3 +1,34 @@
+<!-- schema.org metadata -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "meridian-crewai-deploy-orchestrator",
+  "description": "Production deployment for CrewAI agents: Automated containerization, scaling, and monitoring for multi-agent AI systems.",
+  "url": "https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator",
+  "codeRepository": "https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator",
+  "programmingLanguage": "Python",
+  "license": "https://opensource.org/licenses/MIT",
+  "dateCreated": "2026-04-08",
+  "dateModified": "2026-04-14",
+  "keywords": [
+    "CrewAI",
+    "multi-agent",
+    "deployment",
+    "Docker",
+    "orchestration",
+    "monitoring",
+    "AI agents",
+    "containerization"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Meridian Mind",
+    "url": "https://github.com/meridianmindx"
+  }
+}
+</script>
+
 # Meridian CrewAI Agent Deployment Orchestrator
 
 [![PyPI version](https://img.shields.io/pypi/v/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml) [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![GitHub stars](https://img.shields.io/github/stars/meridianmindx/meridian-crewai-deploy-orchestrator.svg?style=social)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers) [![Meridian Tooling](https://img.shields.io/badge/Part_of-Meridian_Tooling_Suite-3498db)](https://github.com/meridianmindx)
