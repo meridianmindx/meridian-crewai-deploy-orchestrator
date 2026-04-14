@@ -1,6 +1,6 @@
 # Meridian CrewAI Agent Deployment Orchestrator
 
-[![PyPI version](https://img.shields.io/pypi/v/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml) [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![GitHub stars](https://img.shields.io/github/stars/meridianmindx/meridian-crewai-deploy-orchestrator.svg?style=social)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers)
+[![PyPI version](https://img.shields.io/pypi/v/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/actions/workflows/build.yml) [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-crewai-deploy-orchestrator.svg)](https://pypi.org/project/meridian-crewai-deploy-orchestrator/) [![GitHub stars](https://img.shields.io/github/stars/meridianmindx/meridian-crewai-deploy-orchestrator.svg?style=social)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator/stargazers) [![Meridian Tooling](https://img.shields.io/badge/Part_of-Meridian_Tooling_Suite-3498db)](https://github.com/meridianmindx)
 
 **Deploy CrewAI agents anywhere with one command.** Automatically analyze agent codebases and generate optimized Docker configurations for cloud deployment. The easiest way to containerize and scale your CrewAI agents.
 
@@ -230,6 +230,39 @@ MIT License - See [LICENSE](LICENSE) file for details.
 - **GitHub Issues**: Report bugs and feature requests
 - **Discussions**: Share ideas and ask questions
 - **CrewAI Discord**: Join the CrewAI community
+
+---
+
+## 🔗 See Also
+
+**Part of the Meridian Tooling Suite** – Complementary tools for AI agent development:
+
+### 🚀 [Meridian MCP Deploy Framework](https://github.com/meridianmindx/meridian-mcp-deploy)
+Deploy MCP servers with one command. Save hours of manual Docker configuration for Model Context Protocol (MCP) servers.
+
+**Perfect companion for CrewAI deployments:** Deploy your MCP servers alongside CrewAI agents using the same unified approach.
+
+### 🔄 [Meridian Context Compression](https://github.com/meridianmindx/meridian-context-compression)
+Reduce LLM token usage by 22x while preserving semantic meaning. Cut your OpenAI and Anthropic API costs dramatically with intelligent context compression.
+
+**Works great with CrewAI:** Compress prompts before sending to expensive LLMs, especially useful when CrewAI agents retrieve large documents.
+
+### 📦 Installation Bundle
+
+```bash
+# Install the complete Meridian tooling suite
+pip install meridian-crewai-deploy-orchestrator meridian-context-compression
+# Or individually
+pip install meridian-mcp-deploy
+```
+
+### 🎯 Why Use All Three?
+
+1. **meridian-crewai-deploy-orchestrator**: Deploy your CrewAI agents
+2. **meridian-mcp-deploy**: Containerize and deploy your MCP servers
+3. **meridian-context-compression**: Optimize token usage for both
+
+**Together, they provide a complete AI agent deployment and optimization stack.**
 
 ---
 
